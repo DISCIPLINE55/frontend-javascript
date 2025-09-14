@@ -71,6 +71,8 @@ function teachClass(todayClass: Subjects): string {
   }
 }
 
+
+
 // Example usage
 console.log(createEmployee(200));
 console.log(createEmployee(1000));
